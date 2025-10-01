@@ -1,3 +1,3 @@
 import sys
 import time
-print("NIGGA")
+print("good day	& hello kenichi")
