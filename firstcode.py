@@ -1,3 +1,6 @@
 import sys
 import time
-print("good day	& hello kenichi")
+import lib_book as lb
+
+print("good day & hello kenichi")
+lb.types("Eletroonics")
